@@ -83,7 +83,7 @@ def adding_matz
         }
      }
 
-    
+    programmer_hash[:hunter_sides] => {}
 end
 
 def changing_alan
