@@ -83,7 +83,7 @@ def adding_matz
         }
      }
 
-    programmer_hash[:hunter_sides] => {}
+    programmer_hash[:hunter_sides] 
     programmer_hash
 end
 
